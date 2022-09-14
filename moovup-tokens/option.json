@@ -1,0 +1,56 @@
+{
+  "option": {
+    "8": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "14": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "16": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "18": {
+      "value": "18",
+      "type": "lineHeights"
+    },
+    "40": {
+      "value": "40",
+      "type": "spacing"
+    },
+    "44": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "red500": {
+      "value": "#FF2257",
+      "type": "color"
+    },
+    "Inter": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "letterspace-m": {
+      "value": "-0.1",
+      "type": "letterSpacing"
+    },
+    "title": {
+      "value": "capitalize",
+      "type": "textCase"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "green": {
+      "value": "#00ff00",
+      "type": "color"
+    }
+  }
+}

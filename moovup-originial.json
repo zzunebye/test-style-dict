@@ -1,0 +1,190 @@
+{
+    "option": {
+      "8": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "14": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "16": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "18": {
+        "value": "18",
+        "type": "lineHeights"
+      },
+      "40": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "44": {
+        "value": "44",
+        "type": "sizing"
+      },
+      "red500": {
+        "value": "#FF2257",
+        "type": "color"
+      },
+      "Inter": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "letterspace-m": {
+        "value": "-0.1",
+        "type": "letterSpacing"
+      },
+      "title": {
+        "value": "capitalize",
+        "type": "textCase"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "green": {
+        "value": "#00ff00",
+        "type": "color"
+      }
+    },
+    "alias": {
+      "alias": {
+        "sizing": {
+          "size-l": {
+            "value": "{44}",
+            "type": "sizing"
+          }
+        },
+        "spacing": {
+          "space-l": {
+            "value": "{16}",
+            "type": "spacing"
+          },
+          "xxxxl": {
+            "value": "{40}",
+            "type": "spacing"
+          }
+        },
+        "color": {
+          "fill": {
+            "primary-red": {
+              "value": "{red500}",
+              "type": "color"
+            },
+            "green": {
+              "value": "{green}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "white": {
+              "value": "{white}",
+              "type": "color"
+            }
+          }
+        },
+        "borderRadius": {
+          "button": {
+            "value": "{8}",
+            "type": "borderRadius"
+          }
+        },
+        "typography": {
+          "body": {
+            "regular": {
+              "value": {
+                "fontFamily": "{Inter}",
+                "fontWeight": "{regular}",
+                "lineHeight": "{18}",
+                "fontSize": "{14}",
+                "letterSpacing": "{letterspace-m}"
+              },
+              "type": "typography"
+            }
+          }
+        },
+        "textCase": {
+          "title": {
+            "value": "{title}",
+            "type": "textCase"
+          }
+        }
+      }
+    },
+    "component": {
+      "component": {
+        "sizing": {
+          "button": {
+            "l": {
+              "value": "{alias.sizing.size-l}",
+              "type": "sizing"
+            }
+          }
+        },
+        "color": {
+          "button": {
+            "background-color": {
+              "value": "{alias.color.fill.primary-red}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{alias.color.text.white}",
+              "type": "color"
+            }
+          },
+          "button2": {
+            "background-color": {
+              "value": "{alias.color.fill.green}",
+              "type": "color"
+            }
+          }
+        },
+        "spacing": {
+          "body": {
+            "pagePaddingLR": {
+              "value": "{alias.spacing.space-l}",
+              "type": "spacing"
+            },
+            "lastBtn-padding": {
+              "value": "{alias.spacing.xxxxl}",
+              "type": "spacing"
+            }
+          }
+        },
+        "borderRadius": {
+          "button": {
+            "value": "{alias.borderRadius.button}",
+            "type": "borderRadius"
+          }
+        },
+        "typography": {
+          "button": {
+            "l": {
+              "value": "{alias.typography.body.regular}",
+              "type": "typography"
+            }
+          }
+        },
+        "textCase": {
+          "title": {
+            "value": "{alias.textCase.title}",
+            "type": "textCase"
+          }
+        }
+      }
+    },
+    "$themes": [],
+    "$metadata": {
+      "tokenSetOrder": [
+        "option",
+        "alias",
+        "component"
+      ]
+    }
+  }
