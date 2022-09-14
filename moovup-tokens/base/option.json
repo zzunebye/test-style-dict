@@ -24,21 +24,10 @@
       "value": "44",
       "type": "sizing"
     },
-    "Inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
-    },
-    "regular": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
+
     "letterspace-m": {
       "value": "-0.1",
       "type": "letterSpacing"
-    },
-    "title": {
-      "value": "capitalize",
-      "type": "textCase"
     }
   }
 }

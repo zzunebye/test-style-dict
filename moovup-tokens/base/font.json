@@ -1,0 +1,10 @@
+{
+  "font": {
+    "inter": {
+      "name": { "value": "Inter" },
+      "type": "fontFamilies"
+    },
+    "size": { "regular": { "value": "Regular" } },
+    "case": { "title": { "value": "capitalize" } }
+  }
+}

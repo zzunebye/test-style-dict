@@ -43,8 +43,8 @@
     "typography": {
       "body": {
         "regular": {
-          "fontFamily": { "value": "{option.Inter}", "type": "typography" },
-          "fontWeight": { "value": "{option.regular}", "type": "typography" },
+          "fontFamily": { "value": "{font.inter.name}", "type": "typography" },
+          "fontWeight": { "value": "{font.size.regular}", "type": "typography" },
           "lineHeight": { "value": "{option.18}", "type": "typography" },
           "fontSize": { "value": "{option.14}", "type": "typography" },
           "letterSpacing": {
@@ -56,7 +56,7 @@
     },
     "textCase": {
       "title": {
-        "value": "{option.title}",
+        "value": "{font.case.title}",
         "type": "textCase"
       }
     }

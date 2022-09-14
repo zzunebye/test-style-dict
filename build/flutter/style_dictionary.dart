@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 09:21:03 GMT
+// Generated on Wed, 14 Sep 2022 09:43:13 GMT
 
 
 
@@ -20,10 +20,10 @@ class StyleDictionary {
     static const aliasSizingSizeL = 44;
     static const aliasSpacingSpaceL = 16;
     static const aliasSpacingXxxxl = 40;
-    static const aliasTextCaseTitle = capitalize;
-    static const aliasTypographyBodyRegularFontFamily = Inter;
+    static const aliasTextCaseTitle = "capitalize";
+    static const aliasTypographyBodyRegularFontFamily = "Inter";
     static const aliasTypographyBodyRegularFontSize = 14;
-    static const aliasTypographyBodyRegularFontWeight = Regular;
+    static const aliasTypographyBodyRegularFontWeight = "Regular";
     static const aliasTypographyBodyRegularLetterSpacing = -0.1;
     static const aliasTypographyBodyRegularLineHeight = 18;
     static const colorBaseGreen = Color(0xFF00FF00);
@@ -39,20 +39,20 @@ class StyleDictionary {
     static const componentSizingButtonL = 44;
     static const componentSpacingBodyLastBtnPadding = 40;
     static const componentSpacingBodyPagePaddingLr = 16;
-    static const componentTextCaseTitle = capitalize;
-    static const componentTypographyButtonLFontFamily = Inter;
+    static const componentTextCaseTitle = "capitalize";
+    static const componentTypographyButtonLFontFamily = "Inter";
     static const componentTypographyButtonLFontSize = 14;
-    static const componentTypographyButtonLFontWeight = Regular;
+    static const componentTypographyButtonLFontWeight = "Regular";
     static const componentTypographyButtonLLetterSpacing = -0.1;
     static const componentTypographyButtonLLineHeight = 18;
+    static const fontCaseTitle = "capitalize";
+    static const fontInterName = "Inter";
+    static const fontSizeRegular = "Regular";
     static const option14 = 14;
     static const option16 = 16;
     static const option18 = 18;
     static const option40 = 40;
     static const option44 = 44;
     static const option8 = 8;
-    static const optionInter = Inter;
     static const optionLetterspaceM = -0.1;
-    static const optionRegular = Regular;
-    static const optionTitle = capitalize;
 }
