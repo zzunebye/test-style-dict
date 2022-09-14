@@ -47,8 +47,21 @@
     "typography": {
       "button": {
         "l": {
-          "value": "{alias.typography.body.regular}",
-          "type": "typography"
+          "fontFamily": {
+            "value": "{alias.typography.body.regular.fontFamily}"
+          },
+          "fontWeight": {
+            "value": "{alias.typography.body.regular.fontWeight}"
+          },
+          "lineHeight": {
+            "value": "{alias.typography.body.regular.lineHeight}"
+          },
+          "fontSize": {
+            "value": "{alias.typography.body.regular.fontSize}"
+          },
+          "letterSpacing": {
+            "value": "{alias.typography.body.regular.letterSpacing}"
+          }
         }
       }
     },

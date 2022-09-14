@@ -43,14 +43,11 @@
     "typography": {
       "body": {
         "regular": {
-          "value": {
-            "fontFamily": "{option.Inter}",
-            "fontWeight": "{option.regular}",
-            "lineHeight": "{option.18}",
-            "fontSize": "{option.14}",
-            "letterSpacing": "{option.letterspace-m}"
-          },
-          "type": "typography"
+          "fontFamily": { "value": "{option.Inter}", "type": "typography" },
+          "fontWeight": { "value": "{option.regular}", "type": "typography" },
+          "lineHeight": { "value": "{option.18}", "type": "typography" },
+          "fontSize": { "value": "{option.14}", "type": "typography" },
+          "letterSpacing": { "value": "{option.letterspace-m}", "type": "typography" }
         }
       }
     },

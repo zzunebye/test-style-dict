@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 07:09:12 GMT
+// Generated on Wed, 14 Sep 2022 08:39:06 GMT
 
 
 
@@ -21,7 +21,11 @@ class StyleDictionary {
     static const aliasSpacingSpaceL = 16;
     static const aliasSpacingXxxxl = 40;
     static const aliasTextCaseTitle = capitalize;
-    static const aliasTypographyBodyRegular = [object Object];
+    static const aliasTypographyBodyRegularFontFamily = Inter;
+    static const aliasTypographyBodyRegularFontSize = 14;
+    static const aliasTypographyBodyRegularFontWeight = Regular;
+    static const aliasTypographyBodyRegularLetterSpacing = -0.1;
+    static const aliasTypographyBodyRegularLineHeight = 18;
     static const componentBorderRadiusButton = 8;
     static const componentColorButton2BackgroundColor = #00ff00;
     static const componentColorButtonBackgroundColor = #FF2257;
@@ -30,7 +34,11 @@ class StyleDictionary {
     static const componentSpacingBodyLastBtnPadding = 40;
     static const componentSpacingBodyPagePaddingLr = 16;
     static const componentTextCaseTitle = capitalize;
-    static const componentTypographyButtonL = [object Object];
+    static const componentTypographyButtonLFontFamily = Inter;
+    static const componentTypographyButtonLFontSize = 14;
+    static const componentTypographyButtonLFontWeight = Regular;
+    static const componentTypographyButtonLLetterSpacing = -0.1;
+    static const componentTypographyButtonLLineHeight = 18;
     static const option14 = 14;
     static const option16 = 16;
     static const option18 = 18;
