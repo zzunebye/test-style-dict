@@ -10,6 +10,17 @@
         "destination": "scss/_variables.scss",
         "format": "scss/variables"
       }]
+    },
+    "flutter": {
+      "transformGroup": "flutter",
+      "buildPath": "build/flutter/",
+      "files": [
+        {
+          "destination": "style_dictionary.dart",
+          "format": "flutter/class.dart",
+          "className": "StyleDictionary"
+        }
+      ]
     }
   }
 }
