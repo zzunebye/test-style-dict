@@ -1,0 +1,20 @@
+{
+  "color": {
+    "fill": {
+      "primary-red": {
+        "value": "{color.base.red500}",
+        "type": "color"
+      },
+      "green": {
+        "value": "{color.base.green}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "white": {
+        "value": "{color.base.white}",
+        "type": "color"
+      }
+    }
+  }
+}

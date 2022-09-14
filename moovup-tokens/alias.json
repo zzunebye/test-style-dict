@@ -19,17 +19,17 @@
     "color": {
       "fill": {
         "primary-red": {
-          "value": "{option.red500}",
+          "value": "{color.base.red500}",
           "type": "color"
         },
         "green": {
-          "value": "{option.green}",
+          "value": "{color.base.green}",
           "type": "color"
         }
       },
       "text": {
         "white": {
-          "value": "{option.white}",
+          "value": "{color.base.white}",
           "type": "color"
         }
       }
@@ -47,7 +47,10 @@
           "fontWeight": { "value": "{option.regular}", "type": "typography" },
           "lineHeight": { "value": "{option.18}", "type": "typography" },
           "fontSize": { "value": "{option.14}", "type": "typography" },
-          "letterSpacing": { "value": "{option.letterspace-m}", "type": "typography" }
+          "letterSpacing": {
+            "value": "{option.letterspace-m}",
+            "type": "typography"
+          }
         }
       }
     },

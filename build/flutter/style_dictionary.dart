@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 14 Sep 2022 08:39:06 GMT
+// Generated on Wed, 14 Sep 2022 09:21:03 GMT
 
 
 
@@ -14,9 +14,9 @@ class StyleDictionary {
   StyleDictionary._();
 
     static const aliasBorderRadiusButton = 8;
-    static const aliasColorFillGreen = #00ff00;
-    static const aliasColorFillPrimaryRed = #FF2257;
-    static const aliasColorTextWhite = #ffffff;
+    static const aliasColorFillGreen = Color(0xFF00FF00);
+    static const aliasColorFillPrimaryRed = Color(0xFFFF2257);
+    static const aliasColorTextWhite = Color(0xFFFFFFFF);
     static const aliasSizingSizeL = 44;
     static const aliasSpacingSpaceL = 16;
     static const aliasSpacingXxxxl = 40;
@@ -26,10 +26,16 @@ class StyleDictionary {
     static const aliasTypographyBodyRegularFontWeight = Regular;
     static const aliasTypographyBodyRegularLetterSpacing = -0.1;
     static const aliasTypographyBodyRegularLineHeight = 18;
+    static const colorBaseGreen = Color(0xFF00FF00);
+    static const colorBaseRed500 = Color(0xFFFF2257);
+    static const colorBaseWhite = Color(0xFFFFFFFF);
+    static const colorFillGreen = Color(0xFF00FF00);
+    static const colorFillPrimaryRed = Color(0xFFFF2257);
+    static const colorTextWhite = Color(0xFFFFFFFF);
     static const componentBorderRadiusButton = 8;
-    static const componentColorButton2BackgroundColor = #00ff00;
-    static const componentColorButtonBackgroundColor = #FF2257;
-    static const componentColorButtonTextColor = #ffffff;
+    static const componentColorButton2BackgroundColor = Color(0xFF00FF00);
+    static const componentColorButtonBackgroundColor = Color(0xFFFF2257);
+    static const componentColorButtonTextColor = Color(0xFFFFFFFF);
     static const componentSizingButtonL = 44;
     static const componentSpacingBodyLastBtnPadding = 40;
     static const componentSpacingBodyPagePaddingLr = 16;
@@ -45,11 +51,8 @@ class StyleDictionary {
     static const option40 = 40;
     static const option44 = 44;
     static const option8 = 8;
-    static const optionGreen = #00ff00;
     static const optionInter = Inter;
     static const optionLetterspaceM = -0.1;
-    static const optionRed500 = #FF2257;
     static const optionRegular = Regular;
     static const optionTitle = capitalize;
-    static const optionWhite = #ffffff;
 }

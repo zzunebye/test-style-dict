@@ -1,0 +1,18 @@
+{
+  "color": {
+    "base": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "green": {
+        "value": "#00ff00",
+        "type": "color"
+      },
+      "red500": {
+        "value": "#FF2257",
+        "type": "color"
+      }
+    }
+  }
+}

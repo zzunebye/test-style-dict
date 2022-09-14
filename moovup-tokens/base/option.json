@@ -24,10 +24,6 @@
       "value": "44",
       "type": "sizing"
     },
-    "red500": {
-      "value": "#FF2257",
-      "type": "color"
-    },
     "Inter": {
       "value": "Inter",
       "type": "fontFamilies"
@@ -43,14 +39,6 @@
     "title": {
       "value": "capitalize",
       "type": "textCase"
-    },
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "green": {
-      "value": "#00ff00",
-      "type": "color"
     }
   }
 }
