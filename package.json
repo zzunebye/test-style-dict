@@ -12,5 +12,8 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "style-dictionary": "^3.7.1"
+  },
+  "dependencies": {
+    "scss": "^0.2.4"
   }
 }

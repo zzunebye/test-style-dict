@@ -1,0 +1,25 @@
+@import "../../build/scss/_variables.scss";
+
+.buttonMain {
+  color: $component-color-button-text-color;
+  background-color: $component-color-button2-background-color;
+  border-radius: $component-border-radius-button + px;
+  padding-right: $component-spacing-body-last-btn-padding + px;
+  padding-left: $component-spacing-body-last-btn-padding + px;
+  padding-top: $component-border-radius-button + px;
+  padding-bottom: $component-border-radius-button + px;
+  min-width: $component-sizing-button-l + px
+}
+
+.buttonTitle {
+  font-size: $component-typography-button-l-font-size;
+  font-weight: $component-typography-button-l-font-weight;
+  letter-spacing: $component-typography-button-l-letter-spacing;
+  text-transform: $component-text-case-title;
+}
+
+
+@media (min-width: 800px) {
+  .buttonTitle {
+  }
+}

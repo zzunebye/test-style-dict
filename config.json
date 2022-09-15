@@ -5,7 +5,7 @@
   "platforms": {
     "scss": {
       "transformGroup": "scss",
-      "buildPath": "build/",
+      "buildPath": "test-react/build/",
       "files": [{
         "destination": "scss/_variables.scss",
         "format": "scss/variables"
@@ -13,7 +13,7 @@
     },
     "flutter": {
       "transformGroup": "flutter",
-      "buildPath": "build/flutter/",
+      "buildPath": "test_flutter/style/",
       "files": [
         {
           "destination": "style_dictionary.dart",
