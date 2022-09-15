@@ -11,6 +11,6 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "style-dictionary": "latest"
+    "style-dictionary": "^3.7.1"
   }
 }
