@@ -2,7 +2,7 @@
   "color": {
     "base": {
       "white": {
-        "value": "#ffffff",
+        "value": "#000000",
         "type": "color"
       },
       "green": {
