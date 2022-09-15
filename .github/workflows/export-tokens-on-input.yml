@@ -8,7 +8,7 @@ on:
 
 jobs:
   generate_tokens:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
     - name: Install Node Dependencies
       run: npm install
